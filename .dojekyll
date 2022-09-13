@@ -1,0 +1,7 @@
+#!/bin/bash
+# START Tue 13 Sep 2022
+
+bundle install
+bundle clean --force
+bundle install
+bundle update
