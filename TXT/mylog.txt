@@ -11,3 +11,5 @@ ZCZC W01 300 L31 Install and Dress Up Debian VM
 ZCZC W02 200 L31 Reinstall Debian for Broken Installation
 ZCZC W02 100 L02 Class
 ZCZC W02 100 L00 Assignment W02
+ZCZC W03 200 L00 Class
+ZCZC W03 100 L00 Assignment W03
