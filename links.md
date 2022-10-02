@@ -22,3 +22,6 @@ For checking assignment regarding OS
 
 3. [Debian Distributions](https://www.debian.org/CD/http-ftp/)
 The place to download debian OS image to be installed on new machine, be it physical or virtual
+
+4. [Youtube](https://www.youtube.com/)
+For tutorial and manual hands on learning
